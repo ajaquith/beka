@@ -3,6 +3,8 @@
 .sass-cache
 .gist-cache
 .pygments-cache
+.themes/beka
+.themes/octostrap3
 _deploy
 public
 sass.old
