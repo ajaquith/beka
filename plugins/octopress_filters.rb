@@ -1,9 +1,9 @@
 #custom filters for Octopress
 require './plugins/backtick_code_block'
-require 'jekyll-page-hooks'
+require 'octopress-hooks'
 require 'jekyll-sitemap'
-require 'jekyll-date-format'
 require './plugins/raw'
+require './plugins/date'
 require 'rubypants'
 
 module OctopressFilters
@@ -39,6 +39,7 @@ end
 
 
 module OctopressLiquidFilters
+  include Octopress::Date
 
   # Used on the blog index to split posts on the <!--more--> marker
   def excerpt(input)

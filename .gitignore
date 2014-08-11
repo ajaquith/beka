@@ -6,6 +6,7 @@
 .themes/beka
 .themes/octostrap3
 _deploy
+build
 public
 sass.old
 source.old
