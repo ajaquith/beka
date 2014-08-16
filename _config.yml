@@ -34,6 +34,7 @@ linkedin_user: rebecca-thomas/14/4a1/250
 blog_title: Viewpoint
 blog_subtitle: Blog
 author_bios: ["Rebecca Thomas"]
+default_icon: pen
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -65,13 +66,13 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: []
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
-# blog_index_asides:
-# post_asides:
-# page_asides:
+blog_index_asides: [asides/search.html, asides/site_categories.html, asides/recent_posts.html, asides/archives.html]
+post_asides:       [asides/search.html, asides/categories.html, asides/recent_posts.html, asides/archives.html]
+page_asides:       [asides/search.html, asides/site_categories.html, asides/recent_posts.html, asides/archives.html]
 
 # ----------------------- #
 #   3rd Party Settings    #
