@@ -3,8 +3,7 @@
 .sass-cache
 .gist-cache
 .pygments-cache
-.themes/beka
-.themes/octostrap3
+.themes
 _deploy
 build
 public

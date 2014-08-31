@@ -35,6 +35,10 @@ blog_title: Viewpoint
 blog_subtitle: Blog
 author_bios: ["Rebecca Thomas"]
 default_icon: pen
+mailchimp_signup_url: //rebeccathomas.us9.list-manage.com/subscribe/post?u=d8d444072b537dbe62af914d9&amp;id=004cab9621
+mailchimp_nonce: b_d8d444072b537dbe62af914d9_004cab9621
+mailchimp_css: //cdn-images.mailchimp.com/embedcode/classic-081711.css
+
 
 # ----------------------- #
 #    Jekyll & Plugins     #
