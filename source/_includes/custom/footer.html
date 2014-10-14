@@ -9,10 +9,9 @@
                         <img src="{{ root_url }}{{ site.logo_footer }}" alt="{{ site.title }}"/>
                     </div>
                     <div class="footer-content-text">
-                        <p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget
-                            dolor.</p>
-                        <p>Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget
-                            dolor.</p>
+                        <p>Rebecca Thomas & Associates, LLC (RTA) partners with
+                            philanthropic and nonprofit leaders to expand opportunities
+                            for community and cultural vitality.</p>
                     </div>
                 </div>
             </div>
@@ -20,20 +19,17 @@
 
             <!-- Footer Col. -->
             <div class="col-md-3 col-sm-3 footer-col">
-                <div class="footer-title">
+                <!-- Subtract 8px because the Twitter widget adds it back in; big hack, sorry -->
+                <div class="footer-title" style="margin-bottom: 8px;">
                     Recent Tweets
                 </div>
                 <div class="footer-content footer-recent-tweets-container">
-                    <ul class="tweetList footer-recent-tweets">
-                        <li class="tweet_content item">
-                            <p>Grab a copy of the popular Boomerang theme for $10 until its next release! </p>
-                            <p class="timestamp">2 days ago</p>
-                        </li>
-                        <li class="tweet_content item">
-                            <p>Newest Blog Awesome post: Stacking Text and Icons <a href="http://t.co/1qRP8K1wjG">Check it</a></p>
-                            <p class="timestamp">4 days ago</p>
-                        </li>
-                    </ul>
+                    <a class="twitter-timeline" data-theme="dark" data-link-color="#fff"
+                        data-chrome="noheader nofooter noborders noscrollbar transparent"
+                        data-tweet-limit="2"
+                        href="https://twitter.com/RebeccaSThomas"
+                        data-widget-id="521843310831230976">Tweets by @RebeccaSThomas</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 </div>
             </div>
             <!-- //Footer Col.// -->
