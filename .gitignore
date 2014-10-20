@@ -35,7 +35,6 @@ source/_includes/top_bar.html
 source/_includes/twitter_sharing.html
 source/_layouts/
 source/assets/
-source/atom.xml
 source/images/assets/
 source/images/blurred1.jpg
 source/images/body_backgrounds/
@@ -60,9 +59,9 @@ source/images/skins-images/
 source/images/social-media/
 source/images/sprites*
 source/images/title*
+source/stylesheets/
 blog/
 css/
 fonts/
 javascripts/
 js/
-robots.txt
