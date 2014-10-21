@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /signup-success-23489507283720143.html
+Disallow: /signup-success-3141592.html
 
 Sitemap: http://www.rebeccathomas.com/sitemap.xml 
