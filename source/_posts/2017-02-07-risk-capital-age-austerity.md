@@ -11,15 +11,15 @@ comments: true
 ---
 Battered by the news headlines, conversations in many cultural nonprofit boardrooms have turned to questions of “what if?” Over the past month, I’ve participated in several discussions that went something like this:
 
-> What if our major donors shift their funding to social justice, women’s rights and legal advocacy organizations?
+- &ldquo;What if our major donors shift their funding to social justice, women’s rights and legal advocacy organizations?&rdquo;
 
-> We just heard from a national funder that their longtime support of our organization may be in jeopardy. How will we meet this year’s budget if they reduce the size of their annual gift?
+- &ldquo;We just heard from a national funder that their longtime support of our organization may be in jeopardy. How will we meet this year’s budget if they reduce the size of their annual gift?&rdquo;
 
-> What if the NEA [goes away](https://www.nytimes.com/2017/01/30/arts/design/donald-trump-arts-humanities-public-television.html)? How will potential ensuing cuts in government funding at the state and local levels affect us?
+- &ldquo;What if the NEA [goes away](https://www.nytimes.com/2017/01/30/arts/design/donald-trump-arts-humanities-public-television.html)? How will potential ensuing cuts in government funding at the state and local levels affect us?&rdquo;
 
 In this environment, organizations can be tempted to pull inward and pray for preservation of the status quo in 2017 and beyond. And indeed, it would be irresponsible for cultural organizations not to look closely at their business models and ask themselves which less profitable activities might be consolidated or cut back with minimal harm to mission – and which money-making programs or functions have the potential to attract additional earned or philanthropic income.
 
-And yet, the sector has a lot of critical work to do in response to shifting political winds. Many cultural organizations are already raising their voices, whether by creating or presenting works that expose audiences and the public to competing ideas, [pledging to support international and immigrant artists](https://www.washingtonpost.com/news/answer-sheet/wp/2017/02/02/mass-college-creates-refugee-scholarship-for-a-student-affected-by-trumps-travel-ban/?utm_term=.c3df5d1e542e), [advocating for state and local governments to hold the line on arts funding](http://www.pressherald.com/2017/01/29/maine-arts-groups-prepare-to-fight-trump-in-case-of-budget-cuts/), or [investing in community-organizing strategies]().
+And yet, the sector has a lot of critical work to do in response to shifting political winds. Many cultural organizations are already raising their voices, whether by creating or presenting [new works that expose audiences to competing ideas](https://www.nytimes.com/2017/02/05/theater/trump-wall-mexico-play.html), pledging to support [international and immigrant artists](https://www.washingtonpost.com/news/answer-sheet/wp/2017/02/02/mass-college-creates-refugee-scholarship-for-a-student-affected-by-trumps-travel-ban/?utm_term=.c3df5d1e542e), advocating for state and local governments to [hold the line on arts funding](http://www.pressherald.com/2017/01/29/maine-arts-groups-prepare-to-fight-trump-in-case-of-budget-cuts/), or investing in community-organizing strategies.
 
 This work calls for a special kind of capital that remains all too rare in the nonprofit sector: _risk capital_.
 
