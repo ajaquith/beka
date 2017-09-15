@@ -17,6 +17,8 @@ Battered by the news headlines, conversations in many cultural nonprofit boardro
 
 - &ldquo;What if the NEA [goes away](https://www.nytimes.com/2017/01/30/arts/design/donald-trump-arts-humanities-public-television.html)? How will potential ensuing cuts in government funding at the state and local levels affect us?&rdquo;
 
+<!--more-->
+
 In this environment, organizations can be tempted to pull inward and pray for preservation of the status quo in 2017 and beyond. And indeed, it would be irresponsible for cultural organizations not to look closely at their business models and ask themselves which less profitable activities might be consolidated or cut back with minimal harm to mission – and which money-making programs or functions have the potential to attract additional earned or philanthropic income.
 
 And yet, the sector has a lot of critical work to do in response to shifting political winds. Many cultural organizations are already raising their voices, whether by creating or presenting [new works that expose audiences to competing ideas](https://www.nytimes.com/2017/02/05/theater/trump-wall-mexico-play.html), pledging to support [international and immigrant artists](https://www.washingtonpost.com/news/answer-sheet/wp/2017/02/02/mass-college-creates-refugee-scholarship-for-a-student-affected-by-trumps-travel-ban/?utm_term=.c3df5d1e542e), advocating for state and local governments to [hold the line on arts funding](http://www.pressherald.com/2017/01/29/maine-arts-groups-prepare-to-fight-trump-in-case-of-budget-cuts/), or investing in community-organizing strategies.
