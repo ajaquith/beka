@@ -102,6 +102,6 @@ long term.
 
 Undoubtedly, SMU DataArts will encounter many surprises in the few years ahead.  In my
 experience advising organizations on financial strategy and planning, I see that even the
-best conceived plans rarely go according to plan.  But I&rsquo;m also optimistic that
-these two organizations have emerged from their data-driven courtship and engagement ready
+best conceived plans rarely go according to plan.  But I&rsquo;m optimistic that these two
+organizations have emerged from their data-driven courtship and engagement ready
 to create a family of data-savvy cultural leaders. 
