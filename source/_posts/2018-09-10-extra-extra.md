@@ -43,7 +43,7 @@ they start over questions of leadership. In arts organizations, in particular, m
 vision can be inseparable from a charismatic leader who may not see exit as a planned or
 desired legacy. At DataArts, we didn&rsquo;t face this obstacle. The organization&rsquo;s
 visionary leader, Beth Tuttle &mdash; who shepherded DataArts through a spin-off from the
-Pew Charitable Foundation and spearheaded its growth into a national service organization
+Pew Charitable Trusts and spearheaded its growth into a national service organization
 &mdash; had already moved on as part of a planned transition.  In its interim leader,
 DataArts found an impassioned individual to explore future business scenarios, which led
 the organization to a planned combination with NCAR. As merger discussions progressed, the
