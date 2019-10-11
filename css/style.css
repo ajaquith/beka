@@ -870,7 +870,7 @@ textarea .white-text .feature-details a:hover {
 /* Body Wrapper Links*/
 .body-wrapper a, .top-body a, .top-footer a {
     text-decoration: none;
-    color: #4b4b4b;
+    color: #279fbb;
 }
 
 .body-wrapper a:hover, .top-body a:hover, .top-footer a:hover {
@@ -6453,5 +6453,3 @@ Testimonial
     width: auto;
     height: 190px;
 }
-
-

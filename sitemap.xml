@@ -1,39 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://www.rebeccathomas.com/blog/2018/09/10/extra-extra.html</loc>
-    <lastmod>2018-09-10T00:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/blog/2017/09/14/six-steps-for-sustainability.html</loc>
-    <lastmod>2017-09-14T00:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/blog/2017/02/07/risk-capital-age-austerity.html</loc>
-    <lastmod>2017-02-07T00:00:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/about.html</loc>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/</loc>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/blog/</loc>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/blog/archives/</loc>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/publications.html</loc>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/services.html</loc>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/signup-success-3141592.html</loc>
-  </url>
-  <url>
-    <loc>http://www.rebeccathomas.com/signup.html</loc>
-  </url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/2019/10/10/smu-dataarts-theatre-study.html</loc>
+<lastmod>2019-10-10T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/2018/09/10/extra-extra.html</loc>
+<lastmod>2018-09-10T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/2017/09/14/six-steps-for-sustainability.html</loc>
+<lastmod>2017-09-14T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/2017/02/07/risk-capital-age-austerity.html</loc>
+<lastmod>2017-02-07T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/about.html</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/archives/</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/publications.html</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/services.html</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/signup-success-3141592.html</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/signup.html</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/categories/risk/</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/categories/capitalization/</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/categories/arts/</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/categories/sustainability/</loc>
+</url>
+<url>
+<loc>http://www.rebeccathomas.com/blog/categories/mergers/</loc>
+</url>
 </urlset>
