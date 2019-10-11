@@ -32,7 +32,7 @@ The sharp reduction of working capital will have consequences in the next recess
 
 The reasons for recently negative financial trends  &mdash; both unfunded growth and unevenly allocated assets  &mdash; are complex. Boards, managers and donors continue to believe the myths that &ldquo;scale&rdquo; equals &ldquo;success&rdquo; and that fixed assets lend stability. The notion that cultural nonprofits shouldn&rsquo;t save like every other kind of business remains pervasive, even as national organizations like TCG, SMU DataArts and Grantmakers in the Arts (GIA) work tirelessly to advocate for better management and grantmaking practices.
 
-In this difficult environment, we offer four timely reminders and recommendations. These recommendations are relevant not only to the theatre sector, but also to every nonprofit organization that is struggling financially, and wondering how it will get through the next economic downturn.
+In this difficult environment, we offer four timely reminders and recommendations. These recommendations are relevant not only to the theatre sector, but to every nonprofit organization that is struggling financially and wondering how it will get through the next economic downturn.
 
 ### _Recommendation 1_. Make the case for full cost funding and flexible capital to sustain growth
 
@@ -44,7 +44,7 @@ Second, organizations should not pursue material expansion unless they can secur
 
 Finally, when full-cost funding and change capital aren&rsquo;t forthcoming, nonprofit executives need to become more comfortable saying &ldquo;no.&rdquo; During recessionary periods, organizations can stem their losses by being creative with the artistic and human capital they already have.
 
-### _Recommendation 2_. Don&rsquo;t take your cash out of the drawer and stick it in the ground&hellip; or the market)
+### _Recommendation 2_. Don&rsquo;t take your cash out of the drawer and stick it in the ground&hellip; or the market
 
 Since 2014, RTA has [partnered with Grantmakers in the Arts](https://www.giarts.org/new-conversations-capitalization-and-community-workshop) to educate nonprofits and their supporters nationwide about the importance of building liquid resources to support artistic freedom for the long term. Our core message: organizations need to capitalize in the right order, and working capital should always come first. Most organizations benefit from at least a few months of flexible operating cash on hand to pay for predictable costs ahead of reimbursement revenue from grants or fees. _After_ everyday cash is in place, leaders can then set their sights on creating board-earmarked reserves for rainy days. Endowments (restricted or otherwise) and fixed-asset expansion should come after the balance sheet is otherwise healthy.
 
