@@ -64,7 +64,7 @@ _Cash reserves,_ which are overseen by a board-approved policy governing their u
     <tr>
       <td style="vertical-align:top; padding:6px;">Reserves</td>
       <td style="vertical-align:top; padding:6px;">
-        To address _specific needs_ outside of normal business:
+        To address <i>specific needs</i> outside of normal business:
         <ol style="padding: 4px 0px 0px 30px;">
           <li>Weather a <i>rainy day</i></li>
           <li>Take <i>risk</i> with programs and business models</li>
