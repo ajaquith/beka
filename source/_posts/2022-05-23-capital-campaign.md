@@ -49,10 +49,32 @@ _Working capital_ provides a cash-flow smoothing effect. Many nonprofits experie
 
 _Cash reserves,_ which are overseen by a board-approved policy governing their use and later replenishment, can help soften the blows from revenue shortfalls (or cost overruns) and seed innovations outside of the approved budget. Every arts organization should have some capital on hand to help weather a pullback in contributions or community participation. And every organization can benefit from access to liquidity to experiment with new ideas that have uncertain payoff but promising potential. 
 
-| Type                 | Puropse               | Use                   |
-|----------------------|-----------------------|-----------------------|
-| Working Capital      | Manage _cash flow_ cyclicality and seasonality. Handle everyday risk associated with timing of receipts and expenditures | Drawn from and repaid _at management&rsquo;s discretion_ during the normal course of business. |
-| Reserves | To address _specific needs_ outside of normal business: <ol><li>Weather a _rainy day_</li><li>Take _risk_ with programs and business models</li><li>Repair, replace, improve _fixed assets_</li></ol> | Deployed according to purpose in Board-approved policy. |
+<table cellpadding="12">
+  <thead>
+    <td style="width:20%; padding:6px;"><strong>Type</strong></td>
+    <td style="width:40%; padding:6px;"><strong>Purpose</strong></td>
+    <td style="width:40%; padding:6px;"><strong>Use</strong></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align:top; padding:6px;">Working Capital</td>
+      <td style="vertical-align:top; padding:6px;">Manage <i>cash flow</i> cyclicality and seasonality. Handle everyday risk associated with timing of receipts and expenditures</td>
+      <td style="vertical-align:top; padding:6px;">Drawn from and repaid <i>at management&rsquo;s discretion</i> during the normal course of business.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top; padding:6px;">Reserves</td>
+      <td style="vertical-align:top; padding:6px;">
+        To address _specific needs_ outside of normal business:
+        <ol style="padding: 4px 0px 0px 30px;">
+          <li>Weather a <i>rainy day</i></li>
+          <li>Take <i>risk</i> with programs and business models</li>
+          <li>Repair, replace, improve <i>fixed assets</i></li>
+        </ol>
+      </td>
+      <td style="vertical-align:top; padding:6px;">Deployed according to purpose in Board-approved policy.</td>
+    </tr>
+  </tbody>
+</table>
 
 RTA does not recommend standard targets for each of these funds: every organization has a different cash flow cycle and faces a different set of risks and opportunities. We do strongly encourage organizations to set aside several months of existing cash as management-directed working capital, before creating the reserve funds they need most. Reserve funds can be invested for return, but the allocation strategy should follow from the fund&rsquo;s purpose and time horizon for use. 
 
@@ -61,6 +83,6 @@ In our business, we often say, &ldquo;if you&rsquo;ve met one funder, you&rsquo;
 Fundraising campaigns of the future can draw on some of the same language as capital campaigns of the past&mdash;by promoting health, stability and resilience&mdash;while securing assets that best suit the times. 
 
 ## How can RTA help? 
-_Are you considering the best use of your existing assets or considering a fundraising campaign to raise additional assets for stabilization and change? Would your board benefit from outside training or coaching to help build consensus around what you have or what you seek?_ Our consultants will assess your current financial health and work with your leadership to develop appropriate capitalization goals, targets, and communications.
+_Are you considering the best use of your existing assets or planning a fundraising campaign to raise additional assets for stabilization and change? Is your organization experiencing more fundamental challenges in the business that supports its programs?_
 
-_Is your organization experiencing more fundamental challenges in the business that supports its programs?_ We can help you identify and consider options, develop scenarios, and project pathways for improving operating performance and everyday liquidity.
+Our consultants can work with your executive leadership and board to develop appropriate capitalization goals, targets, and communications. We can also help you identify options, develop scenarios, and project pathways for improving operating performance and everyday liquidity.
