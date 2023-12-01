@@ -45,3 +45,7 @@ span.end-cap {
     height: 0.842em;
     zoom: 1;
 }
+
+a.navbar-brand img {
+    max-height: 30px;
+}
