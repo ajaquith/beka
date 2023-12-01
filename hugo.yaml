@@ -1,0 +1,53 @@
+baseURL: 'https://rebeccathomas.com/'
+languageCode: 'en-us'
+title: 'Rebecca Thomas & Associates'
+summaryLength: 1
+copyright: 'Rebecca Thomas & Associates LLC'
+module:
+  imports:
+    - path: github.com/ajaquith/mediumish-gohugo-theme
+
+params:
+  logo: /images/logo.svg
+  showTitles: false
+  dateFormat: 'January 2, 2006'
+  summaryLength: 200
+  meta:
+    description: 'Rebecca Thomas & Associates (RTA) partners with philanthropic and nonprofit leaders to expand opportunities for community and cultural vitality.'
+    keywords: 'Nonprofit'
+  social:
+    linkedin: 'rebecca-thomas'
+    twitter: '@rebeccasthomas'
+  customcss:
+    - /css/beka.css
+
+taxonomies:
+  author: "authors"
+  category: "categories"
+  tag: "tags"
+
+menu:
+  main:
+    - name: About
+      weight: 100
+      pageRef: /authors
+    - name: Services
+      weight: 200
+      pageRef: /services
+    - name: Blog
+      weight: 300
+      pageRef: /posts
+    - name: Publications
+      weight: 400
+      pageRef: /publications
+    - name: Contact
+      weight: 500
+      pageRef: /contact
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+#disqusShortname: 'markerbench'
+#googleAnalytics: 'G-ZPHMV7LB8G'

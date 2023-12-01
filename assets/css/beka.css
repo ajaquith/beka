@@ -1,0 +1,47 @@
+/* Tweak Bootstap carousel to add shadows to the text. */
+.carousel-caption {
+    text-shadow: 2px 2px 8px #101010;
+}
+
+.jumbotron {
+    background-color: #407395;
+    color: white;
+}
+
+.jumbotron footer, .jumbotron footer a {
+    color: white;
+}
+
+a, .btn-link {
+    color: #407395;
+}
+
+a, a:hover {
+    color: #407395;
+}
+
+.carousel-item h2 {
+    font-weight: 400;
+    color: #efefef;
+}
+
+.carousel-item h2 {
+    font-weight: normal;
+    color: #efefef;
+}
+
+.btn-primary, .btn-primary:hover {
+    background-color: #407395;
+    border-color: #407395;
+}
+
+span.end-cap {
+    margin-left: 1.25em;
+    background: #fff center/cover url("/images/mark.svg") no-repeat;
+    vertical-align: middle;
+    margin-bottom: .25em;
+    display: inline-block;
+    width: 1.5em;
+    height: 0.842em;
+    zoom: 1;
+}

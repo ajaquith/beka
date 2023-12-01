@@ -1,7 +1,0 @@
----
-layout: null
----
-User-agent: *
-Disallow: /signup-success-3141592.html
-
-Sitemap: {{ site.url }}/sitemap.xml 
