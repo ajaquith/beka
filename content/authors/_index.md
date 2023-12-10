@@ -1,6 +1,7 @@
 ---
 title: About Rebecca Thomas & Associates
 date: 2023-11-28 12:00:00 +0000
+url: /about/
 ---
 Rebecca Thomas & Associates (RTA) partners with philanthropic and nonprofit leaders to expand opportunities for community and cultural vitality. RTA helps grantmakers achieve impact by aligning capital to organizational needs. We assist nonprofits as they plan for, navigate and learn from change. We support the field with knowledge and perspective about what it takes to build resilient institutions in the service of their missions.
 

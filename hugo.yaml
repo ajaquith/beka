@@ -21,6 +21,10 @@ params:
   customcss:
     - /css/beka.css
 
+permalinks:
+  section:
+    authors: /about/
+
 taxonomies:
   author: "authors"
   category: "categories"
@@ -30,7 +34,7 @@ menu:
   main:
     - name: About
       weight: 100
-      pageRef: /authors
+      url: /about/
     - name: Services
       weight: 200
       pageRef: /services
