@@ -7,7 +7,9 @@ tags:
 - capitalization
 - arts
 ---
-Despite dire predictions from many&mdash;including me&mdash;the cultural sector has emerged from the pandemic with strengthened finances. Federal funds, philanthropic largesse and extensive cost cutting have left many arts organizations with sturdier balance sheets than we have seen in decades. Early data from SMU DataArts for 500 cultural groups shows that the median organization had six months of unrestricted working capital in 2021, compared to two in 2019. Many of RTA&rsquo;s clients, both large and small, have seen similar or greater increases in their liquidity.
+_Note: This post was revised in December 2023._
+
+Despite dire predictions from many&mdash;including me&mdash;the cultural sector has emerged from the pandemic with strengthened finances. Federal funds, philanthropic largesse and extensive cost cutting have left many arts organizations with sturdier balance sheets than we have seen in decades.
 
 Arts leaders know these gains are temporary and don&rsquo;t reflect material changes to their core business models, which should reliably bring in earned and contributed revenue to cover costs. In many cases, liquidity gains came at the expense of artists and administrators who were let go temporarily or permanently. In some cases, one-time windfalls from national funders and major donors appeared like manna from heaven. 
 
@@ -15,7 +17,7 @@ Pink slips and plum gifts aren&rsquo;t the stuff that sustainable budgets are ma
 
 But it doesn&rsquo;t have to be this way. 
 
-Newfound assets present a launchpad for __comprehensive capitalization__: _the allocation of liquidity for the pursuit of change, assurance of stability, and management of risk_. Cognizant that this flush feeling may be fleeting as the risk of recession rises, many of our clients have been asking how to develop a sound strategy for recently accumulated funds. Some are simultaneously preparing capital campaigns to secure additional assets that they believe will help them navigate the future. Capitalization planning helps organizations with newfound assets _and_ those that seek to raise new funds.
+Newfound assets present a launchpad for __comprehensive capitalization__: _the allocation of liquidity for the pursuit of change, assurance of stability, and management of risk_. Cognizant that this flush feeling is fleeting, many of our clients have been asking how to develop a sound strategy for recently accumulated funds. Some are simultaneously preparing capital campaigns to secure additional assets that they believe will help them navigate the future. Capitalization planning helps organizations with newfound assets _and_ those that seek to raise new funds.
 
 To capitalize on this moment (pun intended), we recommend three ways cultural organizations can secure, deploy and save assets to achieve sustainability goals.
 

@@ -3,7 +3,7 @@ name: Alice Antonelli
 description: Consultant
 thumbnail: '/images/authors/alice_antonelli.jpg'
 linkedin: 'alice-antonelli-3383371'
-weight: 600
+weight: 700
 ---
 __Alice Antonelli__ provides strategic financial advice, training, and consulting services to nonprofit executive directors and board members. She previously served as a Director for Nonprofit Finance Fund (NFF), where she led consulting initiatives, service delivery and product development. Alice initially joined NFF as part of the lending team and was responsible for business development and underwriting loans. Prior to joining NFF in 2002, she worked at JPMorgan Chase as Vice President for the Community Development Corporation.
 

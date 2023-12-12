@@ -59,6 +59,15 @@ date: 2023-11-28 12:00:00 +0000
         <h3>Our Publications</h3>
     </div>
 </div>
+<!-- March 2020 -->
+<div class="row">
+    <div class="col-md-3 col-sm-3"><p>March 2020</p></div>
+    <div class="col-md-9 col-sm-9">
+        <p><a href="https://www.giarts.org/are-cultural-organizations-recession-ready">
+        &ldquo;Are Cultural Organizations Recession-Ready?&rdquo;</a>
+        <br/><i>Grantmakers in the Arts blog</i></p>
+    </div>
+</div>
 <!-- Fall 2018 -->
 <div class="row">
     <div class="col-md-3 col-sm-3"><p>April 2018</p></div>
