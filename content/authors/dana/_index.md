@@ -1,5 +1,5 @@
 ---
-name: Data Britto
+name: Dana Britto
 description: Consultant
 thumbnail: '/images/authors/dana_britto.jpg'
 linkedin: 'dana-britto-49932240'
